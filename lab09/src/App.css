@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.App-header {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Bookman Old Style', serif;
+  color: #000000;
+}
+
+h1, h2 {
+  margin: 10px 0;
+}
+
+p {
+  font-size: 18px;
+  margin: 5px 0;
+}
